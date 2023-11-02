@@ -1,1 +1,3 @@
-Experience 1 here
+<h2> My First Job</h2>
+<body>
+<p> Working at Lowe's Home Improvement was a rewarding experience. I worked at this job in 2017. I started as a cashier and moved to customer service associate. I interacted with consumers, assisting them in finding things, providing product recommendations, and processing returns. My coworkers and the Lowe's environment made it enjoyable. I looked forward to going to work every day. My favorite Lowe's memory was meeting one of my best friends. What I didn't enjoy when working there was when we were understaffed it was very busy and overwhelming. I'd give this experience a B, as I enjoyed the experiences and provided me with the opportunity to build upon my skills.</p>
