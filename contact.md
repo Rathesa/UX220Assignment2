@@ -1,1 +1,1 @@
-Contact information here
+Email me at kode3850@mylaurier.ca
